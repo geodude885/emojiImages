@@ -1,3 +1,10 @@
+/* emojiImages.pde
+ *
+ *  Author: geodude885
+ *
+ *  Please credit the author, geodude885, if you use this image processing tool.
+ *
+ */
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;
