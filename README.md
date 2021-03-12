@@ -1,7 +1,7 @@
 # emojiImages
-Turns images gathered from the danbooru API into emoji-versions of themselves
+Turns images gathered from the imageboard APIs into emoji-versions of themselves
 
-Will need to be loaded as a Processing 3 sketch with the HTTPs requests library enabled.
+Will need to be loaded as a Processing 3 sketch with the HTTPS requests library enabled.
 In order to use Danbooru image gathering, a danbooru username and API key are required. 
 These are easy to acquire after creating an account.
 
